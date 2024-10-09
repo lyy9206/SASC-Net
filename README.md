@@ -1,6 +1,6 @@
 # Semantic-Aware Detail Search and Feature Constraints for Cross-Resolution Person Re-Identification
 
-![](images\architecture.png)
+![](images/architecture.png)
 
 ## Requirements
 
